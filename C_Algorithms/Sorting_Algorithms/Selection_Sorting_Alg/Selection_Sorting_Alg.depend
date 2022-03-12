@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629245524 source:e:\cworkspace\selection_sorting_alg\main.c
+	<stdio.h>
+	<stdlib.h>
+

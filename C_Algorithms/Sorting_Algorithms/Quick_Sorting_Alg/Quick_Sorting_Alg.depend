@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629383386 source:e:\cworkspace\quick_sorting_alg\main.c
+	<stdio.h>
+	<stdlib.h>
+

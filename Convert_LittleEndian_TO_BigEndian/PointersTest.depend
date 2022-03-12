@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610740411 source:e:\cworkspace\pointerstest\main.c
+	<stdio.h>
+	<stdlib.h>
+

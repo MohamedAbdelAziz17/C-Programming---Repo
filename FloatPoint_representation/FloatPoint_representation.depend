@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647092279 source:e:\cworkspace\floatpoint_representation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
